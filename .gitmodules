@@ -1,0 +1,3 @@
+[submodule "s1"]
+	path = s1
+	url = https://github.com/awiz10/s1.git
